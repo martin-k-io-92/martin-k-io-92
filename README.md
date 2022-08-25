@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @martin-k-io-92
-- 👀 I’m interested in Ruby, Ruby on Rails, RESTful APIs, RSpec
-- 🌱 Add a bit of Social Psychology for taste
-- 👀 Expanding on ReactJS, Hooks, ContextAPI, REDUX, React Router, TypeScript & Next.js
+- 👋 👋 👋
+
+- 👀 Ruby | Ruby on Rails | RSpec | MiniTest
+
+- 👀 JavaScript | ReactJS
+
+- 👀 Selenium | Appium
+
+- 👀 MySQL | PostgreSQL | MariaDB | MongoDB
+
+- 👀 Microservices | RESTful API | 3rd Party Integrations
+
+- 🌱 Social Psychology
+
+- 👀 Expanding on TypeScript | Next.js | NodeJS | GraphQL | Docker | Kubernetes
 
 <!---
 martin-k-io-92/martin-k-io-92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
