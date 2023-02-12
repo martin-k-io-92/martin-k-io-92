@@ -2,7 +2,7 @@
 
 - 👀 Ruby | Ruby on Rails | RSpec | MiniTest
 
-- 👀 JavaScript | ReactJS
+- 👀 JavaScript | TypeScript | ReactJS
 
 - 👀 Selenium | Appium
 
@@ -12,7 +12,7 @@
 
 - 🌱 Social Psychology
 
-- 👀 Expanding on TypeScript | Next.js | NodeJS | GraphQL | Docker | Kubernetes
+- 👀 Expanding on Next.js | NodeJS | GraphQL | Docker | Kubernetes
 
 <!---
 martin-k-io-92/martin-k-io-92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
